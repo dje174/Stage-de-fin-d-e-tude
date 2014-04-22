@@ -3,7 +3,7 @@
 
 ### 01. Remerciements
 
-Un grand merci tout d'abord à Renaud Charpentier de m'avoir accepté dans le cadre de mon stage de fin d'étude en technique infographique, spécialisation web dans son entreprise Raspberry Design SPRL. Je remercie également Étienne Denoël, sous-traitant de Renaud Charpentier m'ayant aider plusieurs fois sur certains des projets durant mon stage.
+Un grand merci tout d'abord à Renaud Charpentier de m'avoir accepté dans le cadre de mon stage de fin d'étude en technique infographique, spécialisation web dans son entreprise Raspberry Design SPRL. Je remercie Étienne Denoël, sous-traitant de Renaud Charpentier m'ayant aider plusieurs fois sur certains des projets durant mon stage.
 
 Je remercie également mon professeur superviseur, Pierre Worontzoff pour m'avoir conseillé dans la rédaction de mon rapport de stage.
 
@@ -15,13 +15,14 @@ Baccalauréat en troisième année à la Haute École de la Province de Liège �
 Ce que j'attendais de ce stage:
 
 - D'être confronté au monde du travail, par là, je parle d'une expérience différente des bancs de l'école;
-- D'appronfondir etaccroitre mes compétences déjà acquises au cours de mes études tant au niveau technique que créatif;
+- D'appronfondir et accroitre mes compétences déjà acquises au cours de mes études tant au niveau technique que créatif;
+- De persévérer dans l'apprentissage de mes lacunes déjà présentes en développement et programmation;
 - De découvrir de nouvelles techniques et méthodes autour de ma spécialisation;
 - Être forcé à travailler avec des échéances pour les projets, ce qui est totalement différent des projets dont on nous habitue à l'école;
 - Découvrir comment se passent les contacts entre les clients et un infographiste;
 
 
-Après avoir envoyer mon CV dans plusieurs entreprises, Renaud à directement répondu et organisé un entretien. Après m'être renseigner un peu plus sur l'entreprise, j'ai choisi ce lieu de stage pour plusieurs raisons:
+Après avoir envoyer mon CV dans plusieurs entreprises, Renaud Charpentier à directement répondu et organisé un entretien. Après m'être renseigner un peu plus sur l'entreprise, j'ai choisi ce lieu de stage pour plusieurs raisons:
 
 - Raspberry Design est une société de communication, identité visuelle, ils créent une image autour d'une marque ou d'un produite, et je trouvais très intéressant d'être dans cet esprit de conception total autour d'un produit (logo, packaging, imprimés, site internet etc);
 - Diversifier et étendre mes compétences sachant que j'allais apprendre deux nouveaux CMS, Silverstripe et Drupal. Ces deux CMS sont très utilisés et très demandés par les employeurs.
@@ -31,7 +32,7 @@ Après avoir envoyer mon CV dans plusieurs entreprises, Renaud à directement r�
 ### 03. À propos de la société
 ##### 03.01 Historique
 
-Société créée en 2009 par Renaud Charpentier, ancien étudiant de la Haute École de la Province de Liège en techniques graphiques, spécialisation web. C'est après l'obtention de son diplôme qu'il décida de se lancer en tant qu'indépendant dans le dévelopement de sites webs mais aussi d'identités visuelles et donc dans tout ce qui est 2D, imprimés etc. La société est située dans le domaine des Hauts-Sarts à Herstal dans les locaux de l'entreprise de nettoyage Gestanet. Société également client de Raspberry Design.
+Société créée en 2009 par Renaud Charpentier, ancien étudiant de la Haute École de la Province de Liège en techniques graphiques, spécialisation web. C'est après l'obtention de son diplôme qu'il décida de se lancer en tant qu'indépendant dans le dévelopement de site webs mais aussi d'identités visuelles et donc dans tout ce qui est 2D, imprimés etc. La société est située dans le domaine des Hauts-Sarts à Herstal dans les locaux de l'entreprise de nettoyage Gestanet. Société également client de Raspberry Design.
 
 ##### 03.02 Services
 
@@ -41,35 +42,43 @@ Il propose également de créer une réelle identité autour d'une marque ou d'u
 
 ##### 03.03 Clients et secteurs d'activités
 
-Petit à petit l'entreprise agrandi son réseau et ses clients. Réalisant principalement des projets pour des particuliers et entreprises (commercant, restaurateur, entreprise nottayage, exportation etc.) mais aussi pour de plus gros clients ayant plus d'influence comme des le club de Brugge, Gestanet, HEC Ulg. Il travaille également avec d'autre entreprise comme DJM Web qui est une entreprise de communication visuelle qui se trouve à Visé.
+Petit à petit l'entreprise agrandi son réseau et ses clients. Réalisant principalement des projets pour des particuliers et entreprises (commercant, restaurateur, entreprise nettayage, exportation etc.) mais aussi pour de plus gros clients ayant plus d'influence comme le club de Brugge, Gestanet, HEC Ulg. Il travaille également avec d'autre entreprise comme DJM Web qui est une entreprise de communication visuelle qui se trouve à Visé.
 
 ##### 03.04 Mon rôle dans la société
+Mon rôle était spécifiquement et exclusivement consacré à la création de site web et de création de maquette de site web. Nous étions deux stagiaires engagés durant la même période, Laura Broussart et moi-même. Elle s'occupait de la partie 2D et je  m'occupais de la création de sites web.
+
+Au niveau de l'environnement de travail, j'ai du travailler via un ordinateur mac, ce qui ne me causa pas de problèmes étant habitué au système d'exploitation d'Apple. 
+
+Dès le premier jour, j'ai travaillé à la conception de sites internet pour des clients. Premièrement avec le CMS Silverstripe en utilisant l'éditeur de code **Espresso** servant également de *client FTP*. Au niveau du templating, j'ai principalement utilisé les deux logiciels de la suite **Adobe** en version **Cs6**, **Illustrator** et **Photoshop**.
+
+Un des aspects les plus important de mon rôle était de respecter les consignes et besoin données précisement par les clients et mon maître de stage Renaud Charpentier. Il fallait que je comprenne exactement la vision du projet et ensuite que je l'applique pour satisfaire au mieux le client.
 
 ### 04. Les CMS utilisées dans les projets
 ##### 04.01 Découverte de Silverstripe
 ###### 04.01.01 Découverte du CMS Silverstripe
-N'ayant jamais utiliser ni appris sur ce CMS, Renaud ma d'abord laissé une matinée pour réaliser quelques tutoriaux de prises en main disponible gratuitement sur le site du CMS. Cela m'a été d'une grande aide pour pouvoir alors entamer le projet.
+N'ayant jamais utiliser ni appris sur ce CMS, Renaud Charpentier ma d'abord laissé une matinée pour réaliser quelques tutoriaux de prises en main disponible gratuitement sur le site du CMS. Cela m'a été d'une grande aide pour pouvoir alors entamer le projet.
+
 ###### 04.01.02 Le projet
 Développement de *Mis En Valeurs* qui une société de coaching de décoration. C'est un site vitrine avec des pages "Accueil", "Services", "Tarifs", "Réalisations", "Contact" et "Blog". Un fichier Illustrator était fournis avec le design a réaliser. La partie créative du développement était donc déjà faite.
 
-Les contraintes principales ici étaient que le client doit pouvoir gérer son contenu textuel et images directement via l'interface administrative du CMS pour éviter de devoir contacter le développeur à chaque besoin d'un changement. Le site après développement des pages, devait être un site **one-page** avec les pages chargées via jQuery par un appel Ajax. Il fallait également que les ancres du menu menent directement au menu de la page dont elles correspondent. Pour cela, il a fallu calculer le haut de chaque page moins la hauteur du menu de sorte à ce que l'on soit redirigé directement vers l'endroit concerné du menu.
+Les contraintes principales ici étaient que le client devait pouvoir gérer son contenu textuel et images directement via l'interface administrative du CMS pour éviter de devoir contacter le développeur à chaque besoin d'un changement. Le site après développement des pages, devait être un site **one-page** avec les pages chargées via jQuery par un appel Ajax. Il fallait également que les ancres du menu menent directement au menu de la page dont elles correspondent. Pour cela, il a fallu calculer le haut de chaque page moins la hauteur du menu de sorte à ce que l'on soit redirigé directement vers l'endroit concerné du menu.
 
 Il a fallu ensuite développé le site avec les **médias queries** pour l'affichage sur tout type d'écrans. Les dimensions vont de 320px à 2000px, d'une très petite dimension à une très grande permet de s'adapter et d'acquérir de l'expérience sur la façon de dispositionner les boîtes et fonctions de la surface disponible et de la largueur d'écran disponible.
 
-Mise en place également d'une mini-application pour la page des tarifs qui consiste en un formulaire pour calculer la valeur d'un bien. Avec un tableau de données administrable via l'interface du CMS (ici pour que l'admin insère des prix) et caché pour le client qui sélectionnera mettra seulement un chiffre dans un champs texte qui sera ensuite multiplier par la donnée cachée pour calculer un total du bien. Le tout réalisé via jQuery pour que le résultat du formulaire soit instantané.
-
-La dernière étape et pas des moindre, les tests utilisateurs en plus de vérification dans Woorank, GTMetrix et la validation HTML via le site du W3C.
+La dernière étape qui ne fut pas des moindre, les tests utilisateurs en plus de vérification dans Woorank, GTMetrix et la validation HTML via le site du W3C.
 
 ###### 04.01.03 Mon opnion sur le CMS
 Silverstripe est une découverte assez impressionnante, c'est un CMS assez facile à prendre en main quand on manipule déjà d'autres CMS et PHP, très pratique et surtout très personnalisable au niveau de l’interface admin du site. Ce qui est très pratique quand on doit administrer des fonctionnalité pour le client dans l'interface.
 
 ##### 04.02 Découverte de Drupal
 ###### 04.02.01 Découverte du CMS Drupal 
-Drupal est un très puissant CMS très répandu et utilisé par de nombreux organisme à travers le monde (Sites gouvernementaux, blog, e-commerces etc). Il est libre et open-source. N'ayant jamais eu l'occasion d'approcher ce CMS, qui est un peu plus difficile à prendre en main que d'autres, Renaud m'a une fois de plus laisser le temps de suivre quelques tutoriels et autres formations pour bien m'initier au CMS avant de commencer le projet en question. Cela m'a vraiment bien aider, j'ai suivi le tutoriel "Atelier Drupal" de Cyprien Roudet qui explique Drupal pour quelqu'un n'ayant jamais utilisé le CMS. Apprentissage de l'interface graphique, gestion de contenu via l'interface, interêts d'utilisation des modules essentiels, création de module et création d'un thème.
+Drupal est un très puissant CMS très répandu et utilisé par de nombreux organisme à travers le monde (Sites gouvernementaux, blog, e-commerces etc). Il est libre et open-source. N'ayant jamais eu l'occasion d'approcher ce CMS, qui est un peu plus difficile à prendre en main que d'autres, Renaud Charpentier m'a une fois de plus laisser le temps de suivre quelques tutoriels et autres formations pour bien m'initier au CMS avant de commencer le projet en question. Cela m'a vraiment bien aider, j'ai suivi le tutoriel "Atelier Drupal" de Cyprien Roudet qui explique Drupal pour quelqu'un n'ayant jamais utilisé le CMS. Apprentissage de l'interface graphique, gestion de contenu via l'interface, interêts d'utilisation des modules essentiels, création de module et création d'un thème.
 ###### 04.02.02 Initiation à la création de module
 Utiliser les modules de Drupal, c'est bien mais une fois les bases assimiler, l'idéal est de créer ses propres modules pour comprendre l'interêt de ceux-ci et des vastes possibilités qu'ils apportent. Car si l'on veut une fonctionnalité particulière qui n'existe pas déjà dans un autre module mais surtout que l'on veut éviter les modules trop lourds qui chargent beaucoup de librairies diverses et qui dépendent d'autres modules etc. J'ai donc suivit le tutoriel d'"Atelier Drupal" qui propose le développement d'un petit module et qui explique les bases de la conception d'un module.
-###### 04.02.03 Initiation à la création de thème 
+###### 04.02.03 Initiation à la création de thème
+Suivi du tutoriel de Cyprien Roudet, qui explique en détail comment créer un thème Drupal en l'adaptant à mon projet Gestanet pour éviter de perdre trop de temps sur le tutoriel.
 ###### 04.02.04 Le projet
+
 ###### 04.02.05 Mon opnion sur le CMS
 Drupal est un outil très puissant, très personnalisable, certes il peu paraitre effrayant à appréhender les premières fois, mais on remarque juste qu'il est très vaste et que les possibilités sont énormes. Les ressources disponibles sont énormes j'ai été impréssionner par la gestion du contenu via l'interface admin qui supprime tout contact avec du SQL.
 
@@ -81,7 +90,7 @@ Pour le CSS, j'étais libre d'utilisé les outils que je voulais, j'ai fais les 
 
 ### 06. Templating et mise en page dans Illustrator
 ##### 06.01 La partie inspiration
-Dans la réalisation d'un layout, le pré-projet que l'on va montrer au client pour qu'il valide le futur design de son site, l'une des partie très importante est l'inspiration. Cela m'apprend à chercher de l'inspiration la où il y en a et trouver différents sites pour s'inspirer de portfolio existant. Tout artiste se doit de s'inspirer de ce que font les autres, où du moins s'informer, allez voir les dernières tendances, les choses à faire ou à ne pas faire. Renaud m'a conseillé d'aller prendre inspiration la plupart du temps sur des banques de thèmes telles que ThemesForest, ThemesKing et d'autres. Pour démarrer un projet et voir dans quelle direction on se dirige, c'est très important et parfois un gain de temps énorme.
+Dans la réalisation d'un layout, le pré-projet que l'on va montrer au client pour qu'il valide le futur design de son site, l'une des partie très importante est l'inspiration. Cela m'apprend à chercher de l'inspiration la où il y en a et trouver différents sites pour s'inspirer de portfolio existant. Tout artiste se doit de s'inspirer de ce que font les autres, où du moins s'informer, allez voir les dernières tendances, les choses à faire ou à ne pas faire. Renaud Charpentier m'a conseillé d'aller prendre inspiration la plupart du temps sur des banques de thèmes telles que ThemesForest, ThemesKing et d'autres. Pour démarrer un projet et voir dans quelle direction on se dirige, c'est très important et parfois un gain de temps énorme.
 
 ##### 06.02 La charte colorimétrique
 Lorsque l'on travail pour un client, et surtout si le client dispose déjà d'une certaine identité visuelle (logo, carte de visite, packaging), il faut impérativement suivre le code couleurs ainsi que le style du logo existant. Et réaliser ensuite le template en rapport avec les couleurs imposée par le client.
@@ -121,14 +130,26 @@ Après la réalisation de deux templates dont un en "one-page", j'ai rencontré 
 
 J'ai donc chercher une fois de plus de l'inspiration sur différent site d'entreprises, mais aussi chez les concurrents direct de cette entreprise, voir ce qu'ils font, comment ils présentent leur entreprise et comment je pourrais faire encore mieux que ses concurrents en essayant d'avoir une identité graphique plus approfondie.
 
+###### Joia
+Réalisation d'un design pour un nouveau restaurant à Visé qui s'appelle "Joia". Il s'agit d'un restaurant de cuisine italienne. Ils apprécient et veulent beaucoup de sobriété dans les travaux qu'on réalise, c'est déjà ce qu'ils avaient demandé lors de la réalisation des cartes de visites, je me suis donc inspiré de cette esprit et design assez épuré. Le design met fort en valeurs les images de fonds avec des grandes images de haute qualité et un menu vertical.
+Le but du menu vertical est que le contenu viendra se mettre sur la moitié de la page et ainsi, le visiteur garde toujours un oeil sur les images de fonds toujours un peux visible.
+
+
 ### 07. Interactivité avec JavaScript et jQuery
+
+Pour la casi totalité des projets, la librairie jQuery fut utilisée à la place de JavaScript traditionnel. Alors oui pourquoi charger une librairie comme jQuery alors qu'on pourrait faire casi tout en JavaScript traditionnel. Vu que jQuery se devait d'être charger pour d'autres librairies (lighbox, ChartJS, Isotope etc). Autant n'utiliser que jQuery et avoir un fichier script qui rassemble toutes les parties de code.
+
+Pour le projet du site **Mis En Valeurs**, mise en place d'une mini-application pour la page des tarifs qui consiste en un formulaire pour calculer la valeur d'un bien. Avec un tableau de données administrable via l'interface du CMS (ici pour que l'admin insère des prix) et caché pour le client qui sélectionnera mettra seulement un chiffre dans un champs texte qui sera ensuite multiplier par la donnée cachée pour calculer un total du bien. Le tout réalisé via jQuery pour que le résultat du formulaire soit instantané.
+
+Durant ce stage, j'ai énormément appris, sur jQuery, ses possibilités, sa logique et son utilisation. Ayant toujours été plus à l'aise avec la réalisation de design que de programmation/développement, cela m'a fait beaucoup progresser dans ma méthode d'approcher JavaScript/jQuery.
+
 
 ### 08. Librairies et autres Frameworks
 
 J'ai utilisé plusieurs librairies et plugins dans les différents projets que j'ai réalisé durant mon stage.
 
 ####ChartJS
-**ChartJS** (http://chartjs.devexpress.com/) est une librairie JavaScript Coté Client qui permet de générer différents styles de graphiques dynamique avec des données. Librairie utilisées pour la refonte du site de l'entreprise **Gestanet SA**, l'ancienne version du site utilisait **Google Charts** qui est la librairie de graphique dynamique de *Google*. Cependant, les librairies *Google* sont souvent assez lourdes et chargent souvent beaucoup de choses inutiles dans votre site, c'est pourquoi j'ai proposé à Renaud d'utiliser **ChartJS** qui est un peu plus légère et beaucoup plus personnalisable.
+**ChartJS** (http://chartjs.devexpress.com/) est une librairie JavaScript Coté Client qui permet de générer différents styles de graphiques dynamique avec des données. Librairie utilisées pour la refonte du site de l'entreprise **Gestanet SA**, l'ancienne version du site utilisait **Google Charts** qui est la librairie de graphique dynamique de *Google*. Cependant, les librairies *Google* sont souvent assez lourdes et chargent souvent beaucoup de choses inutiles dans votre site, c'est pourquoi j'ai proposé à Renaud Charpentier d'utiliser **ChartJS** qui est un peu plus légère et beaucoup plus personnalisable.
 
 ####Isotope
 **Isotope** (http://isotope.metafizzy.co/) est une librairie JavaScript qui permet de trier des éléments et de les filtrer avec des animations personnalisables et très facile à mettre en place. J'ai également du utiliser cette librairie pour le stie de **Gestanet SA** pour la page des référence qui regroupe tous leurs clients avec certains provenant du secteur privé et d'autre du secteur public. D'où l'intérèt ici d'utiliser un filtre. **Isotope** permet donc de de créer un filter en fonction de classes attitrées aux éléments que l'on veut trier. Il suffit juste ensuite de régler et personnaliser les paramètres dans le code JavaScript.
@@ -144,9 +165,19 @@ J'ai utilisé plusieurs librairies et plugins dans les différents projets que j
 - Gestanet SA
 - Coté Bar Coté Cuisine
 - Joia
-- Interface Batterie
+- CET-Power - Interface Batterie
 
 ### 10. Conclusion et impression
+
+Je pense que comme tout étudiant vivant sa première expérience professionnelle, il faut un temps d'adaptation à l'environnement de travail et aux méthodes qui doivent être appliquées. N'ayant jamais eu de réelle expérience professionnelle dans le milieu de l'infographie auparavant, je ne savais pas trop à quoi m'attendre et je dois dire que ce stage fut intense en apprentissage et perfectionnement de mes connaissances.
+
+Je sent une énorme progression en programmation grâce à l'utilisation fréquente de jQuery ainsi qu'une meilleure logique et gestion des CMS grâce à l'apprentissage de Silverstripe et Drupal. Bien sûr, le fait d'avoir développer un site sur chacun de ses deux CMS me fait maîtriser une minuscule partie des centaines de possibilités qu'ils offrent. Mais cela m'a montrer leurs capacités et l'envie d'en apprendre d'avantage sur ces deux outils très impressionants.
+
+J'ai énormément apprécié dès mon arrivée au sein de l'entreprise que l'on me donne directement des responsabilités en me faisant travailler sur des projet de différents clients. Renaud Charpentier veillait évidemment régulièrement à ce que le développement se passe bien mais c'est en général l'atmosphère de travail qui régnait dans l'entreprise. J'ai appris à me débrouiller seul face à des problèmes que j'aurais sûrement éviter dans des projets personnels mais j'ai du y faire face et c'est sûrement la meilleure façon d'apprendre de nouvelles choses.
+
+La variation dans les projets est quelque chose que j'ai fort apprécié, dans le sens ou j'ai autant fait de développement que de design avec des projets variés. Au niveau du design, j'ai du m'adapter au style de l'entreprise et aux envies des client en apportant parfois certaines touches personnelles.
+
+Grâce à ce stage, je me sens plus en confiance pour la finalisation de mon projet de fin d'études et à rentrer activement dans le monde du travail après l'obtention de mon diplôme.
 
 
 
