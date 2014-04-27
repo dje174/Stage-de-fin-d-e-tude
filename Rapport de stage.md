@@ -22,7 +22,7 @@ Ce que j'attendais de ce stage:
 - Découvrir comment se passent les contacts entre les clients et un infographiste;
 
 
-Après avoir envoyer mon CV dans plusieurs entreprises, Renaud Charpentier à directement répondu et organisé un entretien. Après m'être renseigner un peu plus sur l'entreprise, j'ai choisi ce lieu de stage pour plusieurs raisons:
+Après avoir envoyé mon CV dans plusieurs entreprises, Renaud Charpentier à directement répondu et organisé un entretien. Après m'être renseigner un peu plus sur l'entreprise, j'ai choisi ce lieu de stage pour plusieurs raisons:
 
 - Raspberry Design est une société de communication, identité visuelle, ils créent une image autour d'une marque ou d'un produite, et je trouvais très intéressant d'être dans cet esprit de conception total autour d'un produit (logo, packaging, imprimés, site internet etc);
 - Diversifier et étendre mes compétences sachant que j'allais apprendre deux nouveaux CMS, Silverstripe et Drupal. Ces deux CMS sont très utilisés et très demandés par les employeurs.
@@ -51,14 +51,15 @@ Au niveau de l'environnement de travail, j'ai du travailler via un ordinateur ma
 
 Dès le premier jour, j'ai travaillé à la conception de sites internet pour des clients. Premièrement avec le CMS Silverstripe en utilisant l'éditeur de code **Espresso** servant également de *client FTP*. Au niveau du templating, j'ai principalement utilisé les deux logiciels de la suite **Adobe** en version **Cs6**, **Illustrator** et **Photoshop**.
 
-Un des aspects les plus important de mon rôle était de respecter les consignes et besoin données précisement par les clients et mon maître de stage Renaud Charpentier. Il fallait que je comprenne exactement la vision du projet et ensuite que je l'applique pour satisfaire au mieux le client.
+Un des aspects les plus important de mon rôle était de respecter les consignes et besoin données précisement par les clients et mon maître de stage Renaud Charpentier. Il fallait que je comprenne exactement la vision du projet et ensuite que je l'applique pour satisfaire au mieux le client tout en respectant les échéances imposée.
 
 ### 04. Les CMS utilisées dans les projets
 ##### 04.01 Découverte de Silverstripe
 ###### 04.01.01 Découverte du CMS Silverstripe
 N'ayant jamais utiliser ni appris sur ce CMS, Renaud Charpentier ma d'abord laissé une matinée pour réaliser quelques tutoriaux de prises en main disponible gratuitement sur le site du CMS. Cela m'a été d'une grande aide pour pouvoir alors entamer le projet.
 
-###### 04.01.02 Le projet
+###### 04.01.02 Les projets
+###### Mis En Valeurs
 Développement de *Mis En Valeurs* qui une société de coaching de décoration. C'est un site vitrine avec des pages "Accueil", "Services", "Tarifs", "Réalisations", "Contact" et "Blog". Un fichier Illustrator était fournis avec le design a réaliser. La partie créative du développement était donc déjà faite.
 
 Les contraintes principales ici étaient que le client devait pouvoir gérer son contenu textuel et images directement via l'interface administrative du CMS pour éviter de devoir contacter le développeur à chaque besoin d'un changement. Le site après développement des pages, devait être un site **one-page** avec les pages chargées via jQuery par un appel Ajax. Il fallait également que les ancres du menu menent directement au menu de la page dont elles correspondent. Pour cela, il a fallu calculer le haut de chaque page moins la hauteur du menu de sorte à ce que l'on soit redirigé directement vers l'endroit concerné du menu.
@@ -66,6 +67,13 @@ Les contraintes principales ici étaient que le client devait pouvoir gérer son
 Il a fallu ensuite développé le site avec les **médias queries** pour l'affichage sur tout type d'écrans. Les dimensions vont de 320px à 2000px, d'une très petite dimension à une très grande permet de s'adapter et d'acquérir de l'expérience sur la façon de dispositionner les boîtes et fonctions de la surface disponible et de la largueur d'écran disponible.
 
 La dernière étape qui ne fut pas des moindre, les tests utilisateurs en plus de vérification dans Woorank, GTMetrix et la validation HTML via le site du W3C.
+
+###### Joia
+Développement de **Joia-vise** après la conception de leur template. Le choix de Silverstripe au lieu de Drupal pour ce site est qu'il serait inutile d'utiliser Drupal vu que c'est un simple site vitrine sans de grosse fonctionnalité et que l'installation ainsi que le CMS Drupal en lui même sont tout de même assez lourde.
+
+C'est un site vitrine avec des pages "Accueil", "Actualités", "La carte", "Galerie", "Réservations" et "Contact".
+
+La plupart des techniques requise pour le développement du site ont été appliquée pour la conception du site **Mis En Valeurs** donc le développement fut beaucoup plus rapide pour ce site.
 
 ###### 04.01.03 Mon opnion sur le CMS
 Silverstripe est une découverte assez impressionnante, c'est un CMS assez facile à prendre en main quand on manipule déjà d'autres CMS et PHP, très pratique et surtout très personnalisable au niveau de l’interface admin du site. Ce qui est très pratique quand on doit administrer des fonctionnalité pour le client dans l'interface.
@@ -75,12 +83,20 @@ Silverstripe est une découverte assez impressionnante, c'est un CMS assez facil
 Drupal est un très puissant CMS très répandu et utilisé par de nombreux organisme à travers le monde (Sites gouvernementaux, blog, e-commerces etc). Il est libre et open-source. N'ayant jamais eu l'occasion d'approcher ce CMS, qui est un peu plus difficile à prendre en main que d'autres, Renaud Charpentier m'a une fois de plus laisser le temps de suivre quelques tutoriels et autres formations pour bien m'initier au CMS avant de commencer le projet en question. Cela m'a vraiment bien aider, j'ai suivi le tutoriel "Atelier Drupal" de Cyprien Roudet qui explique Drupal pour quelqu'un n'ayant jamais utilisé le CMS. Apprentissage de l'interface graphique, gestion de contenu via l'interface, interêts d'utilisation des modules essentiels, création de module et création d'un thème.
 ###### 04.02.02 Initiation à la création de module
 Utiliser les modules de Drupal, c'est bien mais une fois les bases assimiler, l'idéal est de créer ses propres modules pour comprendre l'interêt de ceux-ci et des vastes possibilités qu'ils apportent. Car si l'on veut une fonctionnalité particulière qui n'existe pas déjà dans un autre module mais surtout que l'on veut éviter les modules trop lourds qui chargent beaucoup de librairies diverses et qui dépendent d'autres modules etc. J'ai donc suivit le tutoriel d'"Atelier Drupal" qui propose le développement d'un petit module et qui explique les bases de la conception d'un module.
+Pour le module spécifique à **Gestanet**, l'idée ici était de remplir la base de données avec les multiples questions et qu'elle seront liées avec la valeurs des input radios que le client coche (ici *Mauvais*, *Moyen*, *Bon*, *Sans avis*, valent donc respectivement 0, 1, 2, none). Il fallait qu'en suite, dans le cas où l'on ajoute des questions au formulaire, que l'on ne doivent pas toucher à la base de données mais que les questions soient directement ajoutées dynamiquement au module. 
+Fonctionnalité supplémentaire pour le module est de permettre au client d'envoyer un fichier **.csv** pour qu'il s'encode directement dans la base de données. Les méthodes utilisées pour cette fonctionnalité se passe dans la fonction **validate** du module qui permet de valider le formulaire avant de le soumettre.
+On va d'abord placer le fichier à un endroit, avant de le récupèrer via le chemin du fichier avec la fonction de drupal **drupal_get_realpath()**. Une fois fait, il va falloir utiliser la fonction de php **fgetcsv()** qui permet de cibler les lignes des fichiers **.csv** et d'analyser ces fichiers pour y récupérer les données. Dans un boucle *while*, on récupère les données, on les insert avec **db_insert** et on ajoute une condition au cas où elles sont dejà présente dans la base de données, on utilisera alors **db_update** pour mettre à jour les données existante.
+La dernière fonctionnalité ajoutée dans le module permet d'envoyer le lien du formulaire au clients présents dans la base de données. Il faut cependant que ce soit une url unique et spécifique au client pour éviter que ce formulaire soit rempli par d'autres visiteurs. On utilise donc le module SMTP de Drupal qui permet de configurer l'envoie de mail via un serveur SMTP au choix. Dans l'envoie du mail, le lien contient en plus l'id du client et son non hashé via la méthode **sha1** et donc l'url est spécifique au client et il peut alors remplir le sondage de satisfaction.
 ###### 04.02.03 Initiation à la création de thème
 Suivi du tutoriel de Cyprien Roudet, qui explique en détail comment créer un thème Drupal en l'adaptant à mon projet Gestanet pour éviter de perdre trop de temps sur le tutoriel.
 ###### 04.02.04 Le projet
+Sûrement l'un des plus gros projet que j'aurais réalisé sur la durée de mon stage. Il fallait donc réalisé dans un premier temps le layout, ensuite développer le site, les fonctionnalités et le mettre en ligne. En plus de ca, il fallait créer un module spécifique à **Gestanet** qui est un sondage d'appréciation de la société que les clients rempliront après avoir loué les services la société de nettoyage.
+C'est un site vitrine de l'entreprise avec des pages "Accueil", "Présentation", "Services", "Références", "Jobs", "Contact" et "Espace Client".
+
+Les différentes pages sont créée via l'interface Drupal, de sorte à ce que tout le contenu qui se trouve dans le site et dans les différentes pages soit administrable et changeable directement dans l'interface pour que l'utilisateur puisse gérer son contenu lui-même. Il fallait ensuite utiliser la même technique que pour **Mis En Valeurs** qui consiste à charger les pages en Ajax pour ensuite que le site soit en **one-page**.
 
 ###### 04.02.05 Mon opnion sur le CMS
-Drupal est un outil très puissant, très personnalisable, certes il peu paraitre effrayant à appréhender les premières fois, mais on remarque juste qu'il est très vaste et que les possibilités sont énormes. Les ressources disponibles sont énormes j'ai été impréssionner par la gestion du contenu via l'interface admin qui supprime tout contact avec du SQL.
+Drupal est un outil très puissant, très personnalisable, certes il peu paraitre effrayant à appréhender les premières fois, mais on remarque juste qu'il est très vaste et que les possibilités sont énormes. Les ressources disponibles sont énormes j'ai été impréssionner par la gestion du contenu via l'interface admin qui supprime tout contact avec du SQL. J'étais également très curieux par rapport à la création de modules bien spécifique, c'est pourquoi j'étais très interessé lors de la conception de celui pour **Gestanet**.
 
 ### 05. Intégration HTML et CSS
 
@@ -141,6 +157,9 @@ Pour la casi totalité des projets, la librairie jQuery fut utilisée à la plac
 
 Pour le projet du site **Mis En Valeurs**, mise en place d'une mini-application pour la page des tarifs qui consiste en un formulaire pour calculer la valeur d'un bien. Avec un tableau de données administrable via l'interface du CMS (ici pour que l'admin insère des prix) et caché pour le client qui sélectionnera mettra seulement un chiffre dans un champs texte qui sera ensuite multiplier par la donnée cachée pour calculer un total du bien. Le tout réalisé via jQuery pour que le résultat du formulaire soit instantané.
 
+Pour le projet du site de **Gestanet SA**, la page d'accueil est une grand image en fond et il fallait obligatoirement qu'elle s'adapte à la résolution de l'écran que ce soit en hauteur ou en largeur. Une version CSS à été réalisée avec la propriété CSS3 **background-cover** mais pour une compatibilité optimale, j'ai réalisé un script jQuery pour que la redimension de l'image se fasse qu'elle que soit la taille de l'écran.
+Il à également fallut développer un slider de contenu pour les pages "Présentation", "Services" et "Jobs" qui ont des blocs de contenu que l'on fait défilé avec des flèches.
+
 Durant ce stage, j'ai énormément appris, sur jQuery, ses possibilités, sa logique et son utilisation. Ayant toujours été plus à l'aise avec la réalisation de design que de programmation/développement, cela m'a fait beaucoup progresser dans ma méthode d'approcher JavaScript/jQuery.
 
 
@@ -150,6 +169,7 @@ J'ai utilisé plusieurs librairies et plugins dans les différents projets que j
 
 ####ChartJS
 **ChartJS** (http://chartjs.devexpress.com/) est une librairie JavaScript Coté Client qui permet de générer différents styles de graphiques dynamique avec des données. Librairie utilisées pour la refonte du site de l'entreprise **Gestanet SA**, l'ancienne version du site utilisait **Google Charts** qui est la librairie de graphique dynamique de *Google*. Cependant, les librairies *Google* sont souvent assez lourdes et chargent souvent beaucoup de choses inutiles dans votre site, c'est pourquoi j'ai proposé à Renaud Charpentier d'utiliser **ChartJS** qui est un peu plus légère et beaucoup plus personnalisable.
+Les données du graphique sont ajoutées via l'interface d'administration et afficher dynamiquement et automatiquement au graphique.
 
 ####Isotope
 **Isotope** (http://isotope.metafizzy.co/) est une librairie JavaScript qui permet de trier des éléments et de les filtrer avec des animations personnalisables et très facile à mettre en place. J'ai également du utiliser cette librairie pour le stie de **Gestanet SA** pour la page des référence qui regroupe tous leurs clients avec certains provenant du secteur privé et d'autre du secteur public. D'où l'intérèt ici d'utiliser un filtre. **Isotope** permet donc de de créer un filter en fonction de classes attitrées aux éléments que l'on veut trier. Il suffit juste ensuite de régler et personnaliser les paramètres dans le code JavaScript.
