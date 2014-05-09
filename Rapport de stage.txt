@@ -51,7 +51,7 @@ Au niveau de l'environnement de travail, j'ai du travailler via un ordinateur ma
 
 Dès le premier jour, j'ai travaillé à la conception de sites internet pour des clients. Premièrement avec le CMS Silverstripe en utilisant l'éditeur de code **Espresso** servant également de *client FTP*. Au niveau du templating, j'ai principalement utilisé les deux logiciels de la suite **Adobe** en version **Cs6**, **Illustrator** et **Photoshop**.
 
-Un des aspects les plus important de mon rôle était de respecter les consignes et besoins données précisement par les clients et mon maître de stage Renaud Charpentier. Il fallait que je comprenne exactement la vision du projet et ensuite que je l'applique pour satisfaire au mieux le client tout en respectant les échéances imposée.
+Un des aspects les plus important de mon rôle était de respecter les consignes et besoin données précisement par les clients et mon maître de stage Renaud Charpentier. Il fallait que je comprenne exactement la vision du projet et ensuite que je l'applique pour satisfaire au mieux le client tout en respectant les échéances imposée.
 
 ### 04. Les CMS utilisées dans les projets
 ##### 04.01 Découverte de Silverstripe
@@ -96,7 +96,7 @@ C'est un site vitrine de l'entreprise avec des pages "Accueil", "Présentation",
 Les différentes pages sont créée via l'interface Drupal, de sorte à ce que tout le contenu qui se trouve dans le site et dans les différentes pages soit administrable et changeable directement dans l'interface pour que l'utilisateur puisse gérer son contenu lui-même. Il fallait ensuite utiliser la même technique que pour **Mis En Valeurs** qui consiste à charger les pages en Ajax pour ensuite que le site soit en **one-page**.
 
 ###### 04.02.05 Mon opnion sur le CMS
-Drupal est un outil très puissant, très personnalisable, certes il peut paraitre effrayant à appréhender les premières fois, mais on remarque juste qu'il est très vaste et que les possibilités sont énormes. Les ressources disponibles sont énormes j'ai été impréssionner par la gestion du contenu via l'interface admin qui supprime tout contact avec du SQL. J'étais également très curieux par rapport à la création de modules bien spécifique, c'est pourquoi j'étais très interessé lors de la conception de celui pour **Gestanet**.
+Drupal est un outil très puissant, très personnalisable, certes il peu paraitre effrayant à appréhender les premières fois, mais on remarque juste qu'il est très vaste et que les possibilités sont énormes. Les ressources disponibles sont énormes j'ai été impréssionner par la gestion du contenu via l'interface admin qui supprime tout contact avec du SQL. J'étais également très curieux par rapport à la création de modules bien spécifique, c'est pourquoi j'étais très interessé lors de la conception de celui pour **Gestanet**.
 
 ### 05. Intégration HTML et CSS
 
@@ -106,7 +106,7 @@ Pour le CSS, j'étais libre d'utilisé les outils que je voulais, j'ai fais les 
 
 ### 06. Templating et mise en page dans Illustrator
 ##### 06.01 La partie inspiration
-Dans la réalisation d'un layout, le pré-projet que l'on va montrer au client pour qu'il valide le futur design de son site, l'une des partie très importante est l'inspiration. Cela m'apprend à chercher de l'inspiration la où il y en a et trouver différents sites pour s'inspirer de sites existant. Tout artiste se doit de s'inspirer de ce que font les autres, où du moins s'informer, allez voir les dernières tendances, les choses à faire ou à ne pas faire. Renaud Charpentier m'a conseillé d'aller prendre inspiration la plupart du temps sur des banques de thèmes telles que ThemesForest, ThemesKing et d'autres. Pour démarrer un projet et voir dans quelle direction on se dirige, c'est très important et parfois un gain de temps énorme.
+Dans la réalisation d'un layout, le pré-projet que l'on va montrer au client pour qu'il valide le futur design de son site, l'une des partie très importante est l'inspiration. Cela m'apprend à chercher de l'inspiration la où il y en a et trouver différents sites pour s'inspirer de portfolio existant. Tout artiste se doit de s'inspirer de ce que font les autres, où du moins s'informer, allez voir les dernières tendances, les choses à faire ou à ne pas faire. Renaud Charpentier m'a conseillé d'aller prendre inspiration la plupart du temps sur des banques de thèmes telles que ThemesForest, ThemesKing et d'autres. Pour démarrer un projet et voir dans quelle direction on se dirige, c'est très important et parfois un gain de temps énorme.
 
 ##### 06.02 La charte colorimétrique
 Lorsque l'on travail pour un client, et surtout si le client dispose déjà d'une certaine identité visuelle (logo, carte de visite, packaging), il faut impérativement suivre le code couleurs ainsi que le style du logo existant. Et réaliser ensuite le template en rapport avec les couleurs imposée par le client.
@@ -126,7 +126,7 @@ Le site se compose de 5 pages "Accueil", "Services", "Portfolio", "À propos" et
 ###### Club de foot F.C. Warsage
 Refonte graphique et réalisation d'un template du site du club de football **F.C. Warsage** qui est un club de la région de Visé. La première étape à été une fois de plus l'inspiration et pour ce faire j'ai été m'inspirer de sites de clubs de footballs existants, pour voir comment ils mettent en page leurs informations, comment ils les font ressortir et les mettent en valeurs. Le logo est circulaire et vert clair, je dois donc respecter ces teintes. Utilisation d'un outil très utile qui est **Color Scheme Designer** pour trouver des couleurs qui soit vont bien ensembles ou qui sont complémentaires.
 
-Pour cette refonte, je devais seulement refaire la page d'accueil pour avoir une idée de quel sera le style global du design. Une fois achevée, on ma ensuite demandé de faire 2 autres pages d'accueil avec une mise en page différente pour pouvoir proposer plusieurs démarche au client. Cela fait vraiment rendre compte à quel point c'est parfois difficile de réaliser plusieurs mise en page avec le même contenu mais différentes l'unes de l'autre. C'est par contre un super exercice qui apprend à varier son style de design et qui est vraiment bénéfique.
+Pour cette refonte, je devais seulement refaire la page d'accueil pour avoir une idée de quel sera le style global du design. Une fois achevée, on ma ensuite demandé de faire 2 autres pages d'accueil avec une mise en page différente pour pouvoir proposer plusieurs démarche au client. Cela fait vraiment rendre compte à quel point c'est parfois difficile de réaliser plusieurs mise en page avec le même contenu mais différentes l'unes de l'autre. C'est par contre un super exercice qui développe i et qui est vraiment bénéfique.
 
 ###### Coté Bar Coté Cuisine
 Refonte graphique et réalisation d'un template pour le restaurant "Coté Bar Coté Cuisine" qui se trouve à Visé. Il s'agit d'une mise à jour du site réalisé par Raspberry Design en 2010.
